@@ -1,0 +1,5 @@
+interface IParking
+{
+	public void print():
+	public blooean addCar
+}
