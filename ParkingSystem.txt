@@ -1,0 +1,4 @@
+public class ParkingSystem implements IParams,IParking
+{
+ps.print();
+}
